@@ -1,0 +1,41 @@
+body {
+    background-color: #f0f0f0; 
+    font-family: Arial, sans-serif; 
+}
+
+#uno {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start; 
+    height: 100vh;
+    text-align: center;
+    padding-top: 10vh; 
+    padding-left: 30vw; /
+}
+
+
+#dos {
+    position: absolute;
+    top: 13%;
+    left: 55%;
+  
+}
+
+img{
+    height: 190px;
+    width: 160px;
+}
+#uno {
+    text-align: left;
+}
+
+div:last-of-type {
+    text-align: right;
+}
+
+h1{
+    text-align: center;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace; 
+}
